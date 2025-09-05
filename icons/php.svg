@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="29.084694"
+   height="29.084694"
+   viewBox="0 0 7.6953251 7.6953252"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="linearGradient1"><stop
+         style="stop-color:#16a2ff;stop-opacity:1;"
+         offset="0"
+         id="stop1" /><stop
+         style="stop-color:#bf2bff;stop-opacity:1;"
+         offset="1"
+         id="stop2" /></linearGradient><linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="8.8412809"
+       y1="6.5576329"
+       x2="16.383606"
+       y2="6.5576329"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,0.03224761)" /></defs><g
+     id="layer1"
+     transform="translate(-8.7647811,-2.7422178)"><rect
+       style="fill:url(#linearGradient2);stroke:#b3b3b3;stroke-width:0.153;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="7.542325"
+       height="7.542325"
+       x="8.8412809"
+       y="2.8187177"
+       ry="0.8308841" /><path
+       fill="currentColor"
+       d="m 12.138842,5.1710019 -0.431609,2.2206343 h 0.502748 l 0.215678,-1.110317 h 0.37706 c 0.139015,0 0.230008,0.1106037 0.203614,0.2468488 l -0.167919,0.8634682 h 0.502748 L 13.50908,6.528168 C 13.588511,6.1191831 13.315271,5.7878727 12.898744,5.7878727 h -0.377059 l 0.119906,-0.6168708 z m -2.005207,0.6168708 h 0.94265 c 0.451216,0 0.747083,0.3589615 0.661113,0.8018818 -0.08597,0.4429203 -0.521599,0.8018817 -0.972816,0.8018817 H 10.324678 L 10.204773,8.0087585 H 9.702027 Z M 10.420452,6.89819 h 0.439903 c 0.173448,0 0.341115,-0.1382562 0.374296,-0.3084355 0.03293,-0.1704313 -0.08069,-0.3084353 -0.25439,-0.3084353 h -0.439904 z m 3.483787,-1.1103173 h 0.942651 c 0.451215,0 0.747082,0.3589615 0.661112,0.8018818 -0.08598,0.4429203 -0.521851,0.8018817 -0.972815,0.8018817 H 14.095283 L 13.975375,8.0087585 H 13.472628 Z M 14.191056,6.89819 h 0.439904 c 0.173447,0 0.341114,-0.1382562 0.374295,-0.3084355 0.03293,-0.1704313 -0.08069,-0.3084353 -0.25439,-0.3084353 h -0.439904 z"
+       id="path1"
+       style="fill:#f9f9f9;stroke-width:0.251374" /></g></svg>
